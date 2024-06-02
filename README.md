@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ... python for AI course
+- 🌱 I’m currently learning python for AI course
 <!--
 **MaximKatorgin/MaximKatorgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
